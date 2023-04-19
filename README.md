@@ -1,6 +1,6 @@
 # i_am_rich <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="35" height="35"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/> </a> 
 
-A new Flutter projec, [i_am_rich](https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/lecture/14481952#overview) from The Complete Flutter Development Bootcamp with Dart, [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/)
+A most simplest Flutter project to understand the basics, [i_am_rich](https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/lecture/14481952#overview) from The Complete Flutter Development Bootcamp with Dart, [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/)
 
 
 ## Getting Started
